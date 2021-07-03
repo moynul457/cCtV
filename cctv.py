@@ -4,17 +4,17 @@
 import requests, re , colorama
 colorama.init()
 print("""
-\033[1;31m\033[1;37m zzzz
-z         z
-z         z
-zzzz
-z
+
+
+
+
+
 z
 z
 
 e            e
 e            e
-e            e
+
 e            e
 e            e
 e            e
